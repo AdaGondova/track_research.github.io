@@ -1,3 +1,7 @@
+layout: page
+title: "Publications"
+permalink: https://adagondova.github.io/track_research.github.io/publications
+
 # Publications
 
 ### Peer-reviewed
